@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ContactlessLimit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6bb26e2-f7cd-4a7b-ab69-b77a7033d220</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70de3de0-d2fb-491f-aa83-bbeffad7e41e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84d23012-8809-4433-bb5a-e710d173374b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>70de3de0-d2fb-491f-aa83-bbeffad7e41e</id>
+      <masked>false</masked>
+      <name>Disabled</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>84d23012-8809-4433-bb5a-e710d173374b</id>
+      <masked>false</masked>
+      <name>Enabled</name>
+   </variable>
+</TestCaseEntity>
